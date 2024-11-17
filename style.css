@@ -1,0 +1,80 @@
+/* Estilos Gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #947d4b;
+}
+
+header {
+    background-color: #180e04;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #3a2a12;
+}
+
+nav a {
+    color: #fff;
+    padding: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    background-color: #555555;
+}
+
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h2 {
+    color: #000000;
+}
+
+h3{
+    color:#000000;
+}
+
+.section-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.section-content img {
+    width: 20%;
+    height: 20;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.section-content img {
+    position: relative; 
+    top: 0px;           
+    left: 900px;         
+      
+}
+
+.section-content p {
+    position: relative;
+    margin-right: 400px;
+}
+
+footer {
+    background-color: #3a2a12;
+    color: #fff;
+    text-align: left;
+    padding: 15px;
+}
+
+  
